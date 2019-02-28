@@ -3,7 +3,7 @@ package main;
 public class SampleProject {
 	//print  Hello world! in the console
 	public static String printHello() {
-		//print Hello world! in the console!
+
 		String c = "Hello World!";
 		return c;
 	}
